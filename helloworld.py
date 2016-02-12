@@ -1,3 +1,2 @@
 
-
-print "Hello World Hi"
+print "Fuck You"
